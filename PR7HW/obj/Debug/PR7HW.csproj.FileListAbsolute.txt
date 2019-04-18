@@ -1,0 +1,15 @@
+c:\users\джабашевн.corp\source\repos\PR7HW\PR7HW\bin\Debug\PR7HW.exe.config
+c:\users\джабашевн.corp\source\repos\PR7HW\PR7HW\bin\Debug\PR7HW.exe
+c:\users\джабашевн.corp\source\repos\PR7HW\PR7HW\bin\Debug\PR7HW.pdb
+c:\users\джабашевн.corp\source\repos\PR7HW\PR7HW\bin\Debug\EntityFramework.dll
+c:\users\джабашевн.corp\source\repos\PR7HW\PR7HW\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\джабашевн.corp\source\repos\PR7HW\PR7HW\bin\Debug\EntityFramework.xml
+c:\users\джабашевн.corp\source\repos\PR7HW\PR7HW\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\джабашевн.corp\source\repos\PR7HW\PR7HW\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\джабашевн.corp\source\repos\PR7HW\PR7HW\obj\Debug\PR7HW.csprojAssemblyReference.cache
+c:\users\джабашевн.corp\source\repos\PR7HW\PR7HW\obj\Debug\PR7HW.csproj.CoreCompileInputs.cache
+c:\users\джабашевн.corp\source\repos\PR7HW\PR7HW\obj\Debug\PR7HW.csproj.CopyComplete
+c:\users\джабашевн.corp\source\repos\PR7HW\PR7HW\obj\Debug\PR7HW.exe
+c:\users\джабашевн.corp\source\repos\PR7HW\PR7HW\obj\Debug\PR7HW.pdb
+c:\users\джабашевн.corp\source\repos\PR7HW\PR7HW\obj\Debug\PR7HW.Migrations.ExampleMigration.resources
+c:\users\джабашевн.corp\source\repos\PR7HW\PR7HW\obj\Debug\PR7HW.csproj.GenerateResource.cache

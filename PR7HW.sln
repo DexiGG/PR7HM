@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PR7HW", "PR7HW\PR7HW.csproj", "{0CABEA16-8D7A-420C-AC42-E0125EA955EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CABEA16-8D7A-420C-AC42-E0125EA955EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CABEA16-8D7A-420C-AC42-E0125EA955EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CABEA16-8D7A-420C-AC42-E0125EA955EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CABEA16-8D7A-420C-AC42-E0125EA955EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C9A75B0-2038-49A5-B3D8-67D80E18F2B4}
+	EndGlobalSection
+EndGlobal
